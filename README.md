@@ -1,6 +1,7 @@
 # FilterVision
 
 FilterVision is an Android application that allows the user to change the color of their screen.
+*Note: As of now, color filter implmentation on phones does not fully work.
 
 ## Installation
 Open the app-release.apk file and download it on your Android phone (On an Apple phone, you will need to download an application that opens .apk files). If your phone requests permission from system settings, allow them, and continue to download the file.
